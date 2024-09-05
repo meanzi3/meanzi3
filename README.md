@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc0cb&height=300&section=header&text=Minji%20Choi&fontSize=90)
+
 ### 🐤 About Me 🐤
 
 [![Velog](https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@minzi/posts)
@@ -37,10 +39,10 @@
 
 <div align="center">
 
-<br><br>
+<br><br><br><br>
 
-### 👀 Profile Views 👀
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeanzi3&count_bg=%23F0768B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeanzi3&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=wave&color=f0768b&height=300&section=footer&text=&fontSize=90)
 
 </div>
